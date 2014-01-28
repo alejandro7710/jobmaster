@@ -1,0 +1,54 @@
+/*
+ *	Theme Quicktags
+ */
+ 
+.qtq {
+	background: #fafafa !important;
+	padding: 2px 6px !important;
+	color: #333 !important;
+	cursor: pointer;
+}
+
+.qtq:hover {
+	background: #fff;
+	-webkit-box-shadow: 0 2px 2px #999;
+	-moz-box-shadow: 0 2px 2px #999;
+	box-shadow: 0 2px 2px #999;
+	-webkit-transform: scale( 1.15 );
+	-moz-transform: scale( 1.15 );
+	-o-transform: scale( 1.15 );
+	-ms-transform: scale( 1.15 );
+	transform: scale( 1.15 );
+}
+
+.qtq:active {
+	position: relative;
+	top: 2px;
+}
+
+#qt_content_tqt_youtube {
+	background: url(qt_youtube.png) center no-repeat #fafafa !important;
+	width: 55px;
+	text-indent: -9999px;
+}
+
+#qt_content_tqt_vimeo {
+	background: url(qt_vimeo.png) center no-repeat #fafafa !important;
+	width: 53px;
+}
+
+#qt_content_tqt_link {
+	background: url(qt_link.png) center no-repeat #fafafa !important;
+	width: 30px;
+}
+
+#qt_content_tqt_mark {
+	background: url(qt_mark.png) center no-repeat #fafafa !important;
+	width: 46px;
+	text-indent: -9999px;
+}
+
+#qt_content_tqt_pic {
+	background: url(qt_pic.png) center no-repeat #fafafa !important;
+	width: 30px;
+}

@@ -1,0 +1,2 @@
+<!-- Background image -->
+<div class="cl_background"><img src="<?php echo ( meta_obtain( 'url', '_cl_background', $post->ID ) ? esc_url( meta_obtain( 'url', '_cl_background', $post->ID ) ) : esc_url( get_theme_option('body_background_url') ) ); ?>" alt="" /></div>

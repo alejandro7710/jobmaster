@@ -1,0 +1,725 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	
+	<!-- Title -->
+	<title>Theme Documentation</title>
+		
+	<!-- CSS -->
+	<style>
+	article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none}[hidden]{display:none}html{font-size:100%;overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0;font-size:13px;line-height:1.231}body,button,input,select,textarea{font-family:sans-serif;color:#222}::-moz-selection{background:#fe57a1;color:#fff;text-shadow:none}::selection{background:#fe57a1;color:#fff;text-shadow:none}a{-webkit-transition:color .25s linear;-moz-transition:color .25s linear;-o-transition:color .25s linear;-ms-transition:color .25s linear;transition:color .25s linear}a,a:visited{color:#00e}a:hover{color:#000}a:focus{outline:thin dotted}a:hover,a:active{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{display:block;height:1px;border:0;border-top:2px dashed #ccc;margin:2em 0;padding:0}ins{background:#ff9;color:#000;text-decoration:none}mark{background:#ff0;color:#000;font-style:italic;font-weight:bold}pre,code,kbd,samp{font-family:monospace,monospace;_font-family:'courier new',monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:"";content:none}small{font-size:85%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}ul,ol{margin:1em 0;padding:0 0 0 30px}dd{margin:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none;margin:0;padding:0}img{border:0;-ms-interpolation-mode:bicubic;vertical-align:middle}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:0;margin:0;padding:0}label{cursor:pointer}legend{border:0;*margin-left:-7px;padding:0}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal;*overflow:visible}table button,table input{*overflow:auto}button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button}input[type="checkbox"],input[type="radio"]{box-sizing:border-box}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;resize:vertical}input:valid,textarea:valid{}input:invalid,textarea:invalid{background-color:#f0dddd}table{border-collapse:collapse;border-spacing:0}td{vertical-align:top}.ir{display:block;border:0;text-indent:-999em;overflow:hidden;background-color:transparent;background-repeat:no-repeat;text-align:left;direction:ltr}.ir br{display:none}.hidden{display:none !important;visibility:hidden}.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.invisible{visibility:hidden}.clearfix:before,.clearfix:after{content:"";display:table}.clearfix:after{clear:both}.clearfix{zoom:1}@media print{ *{background:transparent !important;color:black !important;text-shadow:none !important;filter:none !important;-ms-filter:none !important} a,a:visited{text-decoration:underline} a[href]:after{content:"("attr(href) ")"} abbr[title]:after{content:"("attr(title) ")"} .ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""} pre,blockquote{border:1px solid #999;page-break-inside:avoid} thead{display:table-header-group} tr,img{page-break-inside:avoid} img{max-width:100% !important} @page{margin:0.5cm} p,h2,h3{orphans:3;widows:3} h2,h3{page-break-after:avoid}}body{font-family:Georgia,Palatino,"Palatino Linotype",Times,"Times New Roman",serif;font-size:1em;line-height:1.4em;color:#333}h1,h2,h3,h4,h5,h6{font-weight:normal}h2{line-height:1.5em}.center{display:block;text-align:center}.desc{color:#666}.demo{display:block;margin:3em auto 3.5em;border:2px dashed #666;padding:10px}.container{width:60%;margin:0 auto;padding:3em 0}.space{height:7em}.spacer{margin:5em 0}#summary{margin:3em 0}#summary a{text-decoration:none;color:#333}#summary a:hover{text-decoration:underline}#summary h2{margin:0}table{margin:2em 0;width:100%}table td{text-align:center;vertical-align:middle;border:1px solid #ccc;padding:.5em;width:16%}
+	</style>
+
+</head>
+
+<body>
+	
+	<!-- Main container -->
+	<div class="container">
+		
+		<h1 class="center">Creativelife WordPress Theme</h1>
+		<h4 class="center desc">Crafted by The Open Dept.</h4>
+		
+		<hr />
+		
+		<h4 class="center">Hello there! <strong>Thank you</strong> for buying our theme.
+		Your support is sincerely appreciated :)<br />
+		This documentation will guide you through the installation of this theme and show you
+		how to configure a general website. If you have any questions that are
+		beyond the scope of this document, feel free to open a ticket on the dedicated <a href="http://help.opendept.net">Support Forum</a>.</h4>
+		
+		<hr />
+			
+		<ol id="summary">
+		<li><h2><a href="#preamble">Preamble</a></h2></li>
+		<li><h2><a href="#gettingStarted">Getting started</a></h2>
+			<ol>
+				<li><a href="#themeInstallation">Theme Installation</a></li>
+				<li><a href="#mainMenu">Configuring the Main Menu</a></li>
+				<li><a href="#footerSetup">Configuring the Footer</a></li>
+				<li><a href="#homeSetup">Setting up the Homepage</a></li>
+				<li><a href="#sliderSetup">Configuring the Slider</a></li>
+				<li><a href="#blogConfig">Setting up the Blog</a></li>
+				<li><a href="#portfolioSetup">Setting up a Portfolio</a></li>
+			</ol>
+		</li>
+		<li><h2><a href="#portfolio">Portfolio</a></h2>
+			<ol>
+				<li><a href="#addingItems">Adding Items</a></li>
+				<li><a href="#assigningFilters">Assigning Filters</a></li>
+				<li><a href="#usingLightbox">Using the Lightbox</a></li>
+			</ol>
+		</li>
+		<li><h2><a href="#postFormats">Post Formats</a></h2></li>
+		<li><h2><a href="#sidebarGenerator">Sidebars</a></h2></li>
+		<li><h2><a href="#widgetsList">Widgets</a></h2></li>
+		<li><h2><a href="#shortcodes">Using Shortcodes</a></h2></li>
+		<li><h2><a href="#extras">Extras</a></h2></li>
+		<li><h2><a href="#technicalHelp">Technical Help</a></h2></li>
+		<li><h2><a href="#endingCredits">Ending Credits</a></h2></li>
+		</ol>
+		
+		<hr class="spacer" />
+		
+		<h1 id="preamble" class="center"><small>1.</small> Preamble</h1>
+		<p>Before starting, there's a few informations you need to know, just to make everything easier.</p>
+		
+		<h3><strong>Pages Settings</strong></h3>
+		<p>Every setting regarding a page (or a Portfolio) is located inside the edit page mode of
+		WordPress itself, not in the Control Panel. That means that every page has its own little option panel.</p>
+		
+		<img src="images/page-settings.png" alt="" class="demo" />
+		
+		<h3 id="thumbnails"><strong>Thumbnails</strong> (Images Resizing)</h3>
+		<p>Unlike the majority of the WordPress Themes, Creativelife does not use
+		the popular image resizing script TimThumb. The reason why we decided to drop it is pretty simple: We didn't want
+		to rely on any external script that may <a href="http://bit.ly/n8YdTd" target="_blank">compromise</a> our users's security and rely completely on the WordPress engine.</p>
+		
+		<p>The difference between the two methods of resizing is that TimThumb can recreate every image on-the-fly, while
+		WordPress creates a series of copies of your image of different sizes after you upload them. So if you change, for
+		instance, the size of the blog featured images on the theme Options Panel, from 100 pixels to 200 pixels, WordPress 
+		will not find the 200 pixels images and show the 100 pixels one, simply because when you uploaded them the image size 
+		was configured to 100.</p>
+		
+		<p><strong>However</strong>, even if it sounds a little bit problematic, there's an easy solution. Using a WordPress 
+		plugin you can recreate every Thumbnail at any time. You'll find a copy of the best Thumbnail Rebuilder around at the moment
+		("Ajax Thumbnail Rebuild"). Simply install it and remember to refresh your images after you change some image parameter setting.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="gettingStarted" class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="themeInstallation" class="center"><small>1.</small> Theme Installation</h2>
+		
+		<p>Installing a WordPress theme is the most easy thing in the world! There are two ways to install it:</p>
+		
+		<p>"<strong>I know what FTP is</strong>": Using your favorite FTP application, upload the "Creativelife"
+		<em>folder</em> in your server's <code>/wp-content/themes</code> folder.</p>
+		
+		<p><strong>Via WordPress</strong>: Go to <em>Appearance &rarr; Install Themes &rarr; Upload</em> and choose the "Creativelife.zip" file. Click "Install Now" to install the theme.</p>
+		
+		<p>Once you have uploaded it, go to <em>Appearance &rarr; Themes</em> and finally activate it!</p>
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="mainMenu" class="center"><small>2.</small> Configuring the Main Menu</h2>
+		
+		<p>This theme makes use of the WordPress Nav Menu feature, so you can configure your Main Menu simply dragging and
+		dropping your elements.</p>
+		
+		<p>To configure the Main Menu from scratch, go to <em>Appearance &rarr; Menu</em>, click on the <em>+</em> Icon and create it.</p>
+		
+		<img src="images/menu-1.png" alt="" class="demo" />
+		
+		<p>Now on the left side of the Menu Manager, select your Menu under the <em>Theme Locations</em> block and save. That's it!
+		Now you can start filling your menu with your items.</p>
+		
+		<img src="images/menu-2.png" alt="" class="demo" />
+		
+		<p>A characteristic element of this theme is that every Menu Item has its own icon, and assigning them it's extremely easy. All you have to do 
+		is "open" a Menu Item clicking on the arrow positioned on the extreme right and enter in the "Icon" field either a number from 1 to 30 corresponding the default
+		icons or the url to a custom image.</p>
+		
+		<p class="desc"><small>The "Icon" field may be named "Title attribute" in some cases, but don't worry, the result will be exactly the same.</small></p>
+		
+		<img src="images/menu-3.png" alt="" class="demo" />
+		
+		<h4 id="menuIconsList"><strong>Icons List</strong></h4>
+		
+		<table id="iconsList">
+		    <thead>
+				<tr>
+				    <th>&rarr;</th>
+				    <th></th>
+				    <th>&rarr;</th>
+				    <th></th>
+				    <th>&rarr;</th>
+				    <th></th>
+				</tr>
+		    </thead>
+		    <tbody>
+				<tr>
+				    <td>1</td>
+				    <td><img src="images/icon_1.png" alt="" /></td>
+				    <td>2</td>
+				    <td><img src="images/icon_2.png" alt="" /></td>
+				    <td>3</td>
+				    <td><img src="images/icon_3.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>4</td>
+				    <td><img src="images/icon_4.png" alt="" /></td>
+				    <td>5</td>
+				    <td><img src="images/icon_5.png" alt="" /></td>
+				    <td>6</td>
+				    <td><img src="images/icon_6.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>7</td>
+				    <td><img src="images/icon_7.png" alt="" /></td>
+				    <td>8</td>
+				    <td><img src="images/icon_8.png" alt="" /></td>
+				    <td>9</td>
+				    <td><img src="images/icon_9.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>10</td>
+				    <td><img src="images/icon_10.png" alt="" /></td>
+				    <td>11</td>
+				    <td><img src="images/icon_11.png" alt="" /></td>
+				    <td>12</td>
+				    <td><img src="images/icon_12.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>13</td>
+				    <td><img src="images/icon_13.png" alt="" /></td>
+				    <td>14</td>
+				    <td><img src="images/icon_14.png" alt="" /></td>
+				    <td>15</td>
+				    <td><img src="images/icon_15.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>16</td>
+				    <td><img src="images/icon_16.png" alt="" /></td>
+				    <td>17</td>
+				    <td><img src="images/icon_17.png" alt="" /></td>
+				    <td>18</td>
+				    <td><img src="images/icon_18.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>19</td>
+				    <td><img src="images/icon_19.png" alt="" /></td>
+				    <td>20</td>
+				    <td><img src="images/icon_20.png" alt="" /></td>
+				    <td>21</td>
+				    <td><img src="images/icon_21.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>22</td>
+				    <td><img src="images/icon_22.png" alt="" /></td>
+				    <td>23</td>
+				    <td><img src="images/icon_23.png" alt="" /></td>
+				    <td>24</td>
+				    <td><img src="images/icon_24.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>25</td>
+				    <td><img src="images/icon_25.png" alt="" /></td>
+				    <td>26</td>
+				    <td><img src="images/icon_26.png" alt="" /></td>
+				    <td>27</td>
+				    <td><img src="images/icon_27.png" alt="" /></td>
+				</tr>
+				<tr>
+				    <td>28</td>
+				    <td><img src="images/icon_28.png" alt="" /></td>
+				    <td>29</td>
+				    <td><img src="images/icon_29.png" alt="" /></td>
+				    <td>30</td>
+				    <td><img src="images/icon_30.png" alt="" /></td>
+				</tr>
+		    </tbody>
+		</table>
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="footerSetup" class="center"><small>3.</small> Configuring the Footer</h2>
+		
+		<p>The footer of this theme consists in two blocks. The left block is a content block that you can fill with everything you want, while the right one is left for a configurable menu.</p>
+		
+		<p>To configure the content of the left block, go to <em>Appearance &rarr; Creativelife</em> and select the <em>General</em>
+		tab. Now scroll to <em>Footer Info</em> and fill the <strong>Content</strong> textarea with anything you want.</p>
+		
+		<img src="images/footer-1.png" alt="" class="demo" />
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="homeSetup" class="center"><small>4.</small> Setting up the Homepage</h2>
+		
+		<p>To configure your homepage, create a page (e.g. "Home"), and assign to it the "<strong>Homepage</strong>"
+		Page Template.</p>
+		
+		<img src="images/homepage-1.png" alt="" class="demo" />
+		
+		<p>To set the page you just created as "Front page", go to <em>Settings &rarr; Reading</em>. Now switch the "Front page 
+		displays" input to "<strong>A static page</strong>" and select your page under the "Front page:" select box.
+		Don't forget to hit the "Save Changes" button.</p>
+		
+		<img src="images/homepage-2.png" alt="" class="demo" />
+		
+		<h4><strong>The Content</strong></h4>
+		
+		<p>There are two ways to configure your Homepage content. You can simply enter your content inside your page when in the edit
+		mode, or you can use <strong>Widgets</strong>. After assigning the Page Template to your page, you will notice that a new
+		sidebar area <em>magically</em> appeared in the <em>Appearance &rarr; Widgets</em> section of WordPress.</p>
+		
+		<img src="images/homepage-3.png" alt="" class="demo" />
+		
+		<p>Every Widget that you'll add in these Sidebars will be displayed in your Homepage. Have a look at the available
+		<a href="#widgetsList">Widgets</a> and see what you can achieve with them.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="sliderSetup" class="center"><small>5.</small> Configuring the Slider</h2>
+		
+		<p>Creativelife includes a powerful Slider that allows you to add almost any kind of media to the Homepage of your website, with just
+		a few clicks and allowing you to order them via drag &amp; drop.</p>
+		
+		<p>To open the <em>Slides Manager</em>, go to <em>Appearance &rarr; Creativelife</em>, select the <em>Homepage</em> tab and hit the <strong>Slides &rarr;</strong> switcher.</p>
+		
+		<img src="images/slider-1.png" alt="" class="demo" />
+		
+		<p>For every slide you can enter up to 3 data: a <strong>Picture</strong>, some <strong>Content</strong> and a <strong>Url</strong>.</p>
+		
+		<p>The <em>Picture</em> will be the image displayed in the slide, the <em>Content</em> is the text that will be displayed on the left side of the Slider and the <em>Url</em> is the link where the Slide will point to.</p>
+		
+		<p><em>Content</em> data is optional, so if you don't enter any text the slide's <em>Picture</em> will simply be displayed as full-width, covering the space left by the side block.</p>
+		
+		<h4><strong>Video Slides</strong></h4>
+		
+		<p>If you enter a Video Url (Youtube, Vimeo) in the <strong>Url</strong> field, the Slide will become <em>Video Slide</em>. Video Slides don't allow <em>Content</em> data. <em class="desc"><small>Pictures are worth a thousands words!</small></em></p>
+		
+		<p>If you wish to simply link your Slide to a video and not show it in the Slider, you can simply activate the <strong>Link To</strong> option that will appear.</p>
+		
+		<img src="images/slider-2.png" alt="" class="demo" />
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="blogConfig" class="center"><small>6.</small> Setting up the Blog</h2>
+		
+		<p>To configure a Blog all you have to do is create a page (e.g. "Blog"), go to <em>Settings &rarr; Reading</em>, switch the 
+		"Front page displays" input to "<strong>A static page</strong>" and select your page under the "Posts page:" select box. 
+		Don't forget to hit the "Save Changes" button.</p>
+		
+		<img src="images/blog-1.png" alt="" class="demo" />
+				
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>2.</small> Getting Started</h1>
+		<h2 id="portfolioSetup" class="center"><small>7.</small> Setting up a Portfolio</h2>
+		
+		<p>Creativelife gives you the possibility to create <strong>infinite</strong> Portfolios with <strong>individual</strong>
+		settings.</p>
+		
+		<p>Creating a Portfolio is amazingly simple. All you have to do is create a new page (e.g. "Portfolio"), assign to that page the
+		"<strong>Portfolio</strong>" Page Template and hit the blue "Update" button.</p>
+		
+		<img src="images/portfolio-1.png" alt="" class="demo" />
+		
+		<p>After you do that, a new <em>Post Type</em> with the same name of your page will <em>magically</em> appear on the left side
+		of the WordPress Administration.</p>
+		
+		<img src="images/portfolio-2.png" alt="" class="demo" />
+		
+		<p>More importantly, your page will be transformed from a normal page to a Portfolio Page, so a little Option Panel will take the
+		place of the editor.</p>
+				
+		<hr class="spacer" />
+		
+		<h1 id="portfolio" class="center"><small>3.</small> Portfolio</h1>
+		<h2 id="addingItems" class="center"><small>1.</small> Adding Items</h2>
+		
+		<p>Adding items to a Portfolio is just like adding Posts to a Blog. All you have to do is "open" your Portfolio Post Type (named as
+		your Portfolio page) and hit the "Add New Item" link.</p>
+		
+		<img src="images/portfolio-3.png" alt="" class="demo" />
+		
+		<p>A Portfolio Item consists of a Featured Image, a Title, a Excerpt (a short description) and the Content. What you will insert inside the Content block will be displayed as a page when the item is clicked.</p>
+		
+		<h4><strong>Featured Images</strong></h4>
+		
+		<p>The Featured Image is basically the picture that will be displayed in the Portfolio to represent your item. To apply it, simply
+		click the "Set Featured Image" link located under the "Featured Image" block. A Lightbox will appear, now choose your image, select
+		a size (usually "Full Size") and click the "Use as featured image" link.</p>
+		
+		<img src="images/portfolio-4.png" alt="" class="demo" />
+		
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>3.</small> Portfolio</h1>
+		<h2 id="assigningFilters" class="center"><small>2.</small> Assigning Filters</h2>
+		
+		<p>This theme gives you the chance to assign multiple Tags or "Filters" to your Portfolio Items so that your users can navigate
+		your Portfolio choosing to filter your items basing on the category you have assigned to them (e.g. Logos, Interfaces,
+		Prints).</p>
+		
+		<img src="images/portfolio-5.png" alt="" class="demo" />
+		
+		<p>To assign a Filter to your Portfolio Item, visualize it in the edit mode and start adding them as you would do with Tags on normal
+		WordPress Posts.</p>
+		
+		<img src="images/portfolio-6.png" alt="" class="demo" />
+				
+		<hr class="spacer" />
+		
+		<h1 class="center"><small>3.</small> Portfolio</h1>
+		<h2 id="usingLightbox" class="center"><small>3.</small> Using the Lightbox</h2>
+		
+		<p>If you want to show a Lightbox when clicking to your Portfolio Item, open it in the edit mode and check the "Use Lightbox" checkbox.
+		Always remember to click the blue "Update" button to apply your changes.</p>
+				
+		<p>After you do that, a series of options will appear.</p>
+		
+		<h4><strong>Image Lightbox</strong></h4>
+		
+		<img src="images/portfolio-7.png" alt="" class="demo" />
+	
+		<ul>
+			<li><strong>Image Url</strong>: The url to the picture you want to show inside the Lightbox. By default it is the Featured Image.</li>
+			<li><strong>Caption</strong>: The caption to show in the open Lightbox. By default the item's title will be used as Caption.</li>
+			<li><strong>Gallery</strong>: You have also the option to group various Gallery item. To do that, use the same "Gallery" value
+			on the items you want to group together.</li>
+		</ul>
+		
+		<hr class="spacer" />
+		
+		<h1 id="postFormats" class="center"><small>4.</small> Post Formats</h1>
+		
+		<p>Creativelife gives you the possibility to choose a Post Format for every Post and Portfolio Item. The available formats are: <strong>Gallery</strong>, <strong>Video</strong> and <strong>Audio</strong>.</p>
+		
+		<p>To select a Post Format, simply select it from the <em>Format</em> block positioned on the right side of the WordPress Administration when editing a Post or a Portfolio Item.</p>
+		
+		<img src="images/formats-1.png" alt="" class="demo" />
+		
+		<h4><strong>Gallery Post Format</strong></h4>
+		
+		<p>Using the <strong>Gallery</strong> Post Format you can show a customized Slider that will display all images attached to a post. All you have to do is select the "Gallery" Format, click the "Upload/insert" button and then upload all the images you wish to display.</p>
+		
+		<img src="images/formats-2.png" alt="" class="demo" />
+		
+		<h4><strong>Video Post Format</strong></h4>
+		
+		<p>Using the <strong>Video</strong> Post Format you can display a YouTube or Vimeo video in your Post or Portfolio Item's page. Simply select the "Video" Format and paste the url to your video in the <em>Video Settings</em> box.</p>
+		
+		<h4><strong>Audio Post Format</strong></h4>
+		
+		<p>Using the <strong>Audio</strong> Post Format you can show a simple and direct HTML5 audio player. To use it, select the "Audio" Post Format and paste the url to your audio file. Please, note that the file format of the audio file must be "mp3", no other format is supported at this moment.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="sidebarGenerator" class="center"><small>5.</small> Sidebars</h1>
+		
+		<p>This theme gives you the possibility to create an infinite number of Custom WordPress Sidebars and assign them to different Pages, Posts or Portfolio Items.</p>
+		
+		<p>To create a Sidebar, head over <em>Appearance &rarr; Creativelife</em>, select the "Sidebars" tab and hit the "Add New Sidebar" button.</p>
+		
+		<img src="images/sidebars-1.png" alt="" class="demo" />
+		
+		<p>For each Sidebar you can use a different <em>Title</em> and <em>Description</em>. By default the credentials of the logged user will be used.</p>
+		
+		<p>Every sidebar has a unique ID that you can use to identify it when assigning it to a Page, Post or Portfolio Item through the "Layout Settings" box.</p>
+		
+		<img src="images/sidebars-2.png" alt="" class="demo" />
+		
+		<p>You can use the same ID to put the content of your Sidebar in your Post or Page's content using the <code>[sidebar]</code> <a href="#sidebarShortcode">Shortcode</a>.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="widgetsList" class="center"><small>6.</small> Widgets</h1>
+		
+		<p>Creativelife includes 8 hand-made <small class="desc">(hitting keys on a keyboard)</small> Widgets that will help you to build your website with just a few clicks.</p>
+		
+		<h4><strong>Featured Article</strong></h4>
+		
+		<p>Using this Widget you can display one of your latest 25 posts to feature it on your Homepage or Sidebar.</p>
+		
+		<h4><strong>Latest Articles</strong></h4>
+		
+		<p>Using this Widget you can display a list containing your latest posts.</p>
+		
+		<h4><strong>Latest Works</strong></h4>
+		
+		<p>Using this Widget you can display the latest Portfolio Items from a specific Portfolio Page.</p>
+		
+		<h4><strong>Twitter</strong></h4>
+		
+		<p>This Widget lets you show the latest tweets from a Twitter.com account.</p>
+		
+		<h4><strong>Flickr</strong></h4>
+		
+		<p>Using this Widget you can display the latest photos from a Flickr.com account.</p>
+		
+		<h4><strong>Text</strong></h4>
+		
+		<p>This Text Widget differs from the WordPress one for the possibility to use Shortcodes inside of it.</p>
+		
+		<h4><strong>Video</strong></h4>
+		
+		<p>With this Widget you can add any Youtube or Vimeo inside your Sidebar.</p>
+		
+		<h4><strong>Maps</strong></h4>
+		
+		<p>Using this Widget you can display an image of a map's portion and link it to a page.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="shortcodes" class="center"><small>6.</small> Shortcodes</h1>
+		
+		<p>This theme includes many Shortcodes that let you add from simple to complex content using just a few characters.</p>
+		
+		<p>You can find all Shortcodes in the HTML tab of the WordPress editor, so that you can add them just clicking a button.</p>
+		
+		<img src="images/shortcodes-1.png" alt="" class="demo" />
+		
+		<h2 id="shortcodesList"><strong>Shortcodes List</strong></h2>
+		
+		<p><code>[skills-container][/skills-container] &amp; [skill][/skill]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>label</strong>:</li>
+			<li><strong>val</strong>: 100%</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[skills-container]<br />[skill label="Web Design" val=70%]<br />[skill label="Ego" val=100%]<br />[/skills-container]</code></p>
+		
+		<img src="images/shortcodes-11.png" alt="" class="demo" />
+		
+		<p><code>[color][/color]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>hex</strong>: #FFFFFF</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[color]Key Color[/color] or [color=#999999]Custom Color[/color].</h1></code></p>
+		
+		<img src="images/shortcodes-12.png" alt="" class="demo" />
+		
+		<p><code>[quote][/quote]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>align</strong>: left, right</li>
+			<li><strong>cite</strong>:</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[quote cite="John Doe"]Lorem Bibendum Ullamcorper Tristique Malesuada[/quote]</code></p>
+		
+		<img src="images/shortcodes-2.png" alt="" class="demo" />
+		
+		<p><code>[code][/code]</code></p>
+		
+		<p>Usage:</p>
+		
+		<p><code>[code].logo { margin-top: 15px; }[/code]</code></p>
+		
+		<img src="images/shortcodes-3.png" alt="" class="demo" />
+		
+		<p><code>[youtube]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>url</strong>:</li>
+			<li><strong>size</strong>: 123x456</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[youtube url=http://www.youtube.com/watch?v=clfAq1xSevc size=250x200]</code></p>
+		
+		<img src="images/shortcodes-4.png" alt="" class="demo" />
+		
+		<p><code>[vimeo]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>url</strong>:</li>
+			<li><strong>size</strong>: 123x456</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[vimeo url=http://vimeo.com/27495689 size=250x200]</code></p>
+		
+		<img src="images/shortcodes-5.png" alt="" class="demo" />
+				
+		<p><code>[columns-container][/columns-container] &amp; [column][/column]</code></p>
+		
+		<p><code>[column]</code> Available options:</p>
+		
+		<ul>
+			<li><strong>size</strong>: 2, 3, 4, 5, 1/2, 1/3, 1/4, 1/5, 2/3, 3/4</li>
+			<li><strong>height</strong>:</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[columns-container]<br />[column size=3]Column 1[/column]<br />[column size=3]Column 2[/column]<br />[column size=3]Column 3[/column]<br />[/columns-container]</code></p>
+		
+		<img src="images/shortcodes-6.png" alt="" style="margin-left: -85px" class="demo" />
+		
+		<p><code>[mark][/mark]</code></p>
+				
+		<p>Usage:</p>
+		
+		<p><code>Lorem ipsum dolor sit amet, [mark]consectetur[/mark] adipiscing elit.</code></p>
+		
+		<img src="images/shortcodes-7.png" alt="" class="demo" />
+		
+		<p><code>[map]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>center</strong>:</li>
+			<li><strong>zoom</strong>: 1, 2, 3 ...</li>
+			<li><strong>size</strong>:</li>
+			<li><strong>maptype</strong>: roadmap, satellite, terrain, hybrid</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[map center="Area 51" zoom=12 size=400x200 maptype=satellite]</code></p>
+		
+		<img src="images/shortcodes-8.png" alt="" class="demo" />
+		
+		<p><code>[link][/link]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>url</strong>:</li>
+			<li><strong>newtab</strong>:</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[link url=http://www.google.com]Visit Google.com[/link]</code></p>
+		
+		<img src="images/shortcodes-9.png" alt="" class="demo" />
+		
+		<p><code>[pic]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>url</strong>:</li>
+			<li><strong>align</strong>: left, right</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[pic url=http://.../uploads/2011/08/image.jpg]</code></p>
+		
+		<img src="images/shortcodes-10.png" alt="" class="demo" />
+		
+		<p id="sidebarShortcode"><code>[sidebar]</code></p>
+		
+		<p>Available options:</p>
+		
+		<ul>
+			<li><strong>id</strong>:</li>
+		</ul>
+		
+		<p>Usage:</p>
+		
+		<p><code>[sidebar id=admin_sidebar_0]</code></p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="extras" class="center"><small>7.</small> Extras</h1>
+		
+		<p>Creativelife includes a few Extra options that will make the whole experience of using the theme even more enjoyable. You can
+		find all Extras in the Control Panel, under the "Extras" tab. <em>Appearance &rarr; Creativelife</em>.</p>
+		
+		<h4><strong>Categories Exclusion</strong></h4>
+		
+		<p>These theme gives you the possibility to exclude any Post Category you want from all user-accessible areas of your
+		website.</p>
+		
+		<h4><strong>Theme Updates</strong></h4>
+		
+		<p>If you like to keep your themes up-to-date: You're awesome. You can choice to enable the Updates Notification, so
+		when a new version of Creativelife will be available you'll be notified.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="technicalHelp" class="center"><small>8.</small> Technical Help</h1>
+		
+		<p>Here's some informations that may help if you want to customize the theme even more.</p>
+				
+		<h4><strong>Headings Font</strong></h4>
+		
+		<p>By default the theme uses the CSS @font-face property to add a custom font named "League Gothic" on the main areas of the layout. If you wish to switch to a different font, here's what you need to do:</p>
+		
+		<ol>
+			<li>Prepare your Font-Face Kit, converting your font using a great tool like the <a href="http://www.fontsquirrel.com/fontface/generator">Font Squirrel's Generator</a>.</li>
+			<li>Move your kit's contents in the "<em>font</em>" folder of the theme.</li>
+			<li>Open the "<em>style.css</em>" file located inside the theme's folder, go to line <strong>211</strong> and replace the default font name with yours.</li>
+		</ol>
+		
+		<p>You can edit the selectors list that follows (line 222) if you wish to use your font on more elements.</p>
+		
+		<h4><strong>Theme Translation</strong></h4>
+		
+		<p>Creativelife is translation-ready. That means that <a href="http://bit.ly/roo979" target="_blank">editing</a> the ".po" file included inside the <em>Creativelife/languages/</em> folder you can translate the theme in any other language.</p>
+		
+		<p>When editing a language, do not remove strings like "<code>%s</code>" or "<code>%1$</code>", but simply write around them. These are strings that get automatically replaced with dynamic or more complex content.</p>
+		
+		<hr class="spacer" />
+		
+		<h1 id="endingCredits" class="center"><small>9.</small> Ending Credits</h1>
+		
+		<p>To build this theme, I've used some external sources from great people kind enough to share their work.</p>
+		
+		<h4><strong>Graphics</strong></h4>
+		
+		<ul>
+			<li><a href="http://iconsweets2.com/">iconSweets 2</a> by Yummygum</li>
+			<li><a href="http://subtlepatterns.com/">Subtle Patterns</a>, a project by Atle Mo</li>
+			<li><a href="http://www.theleagueofmoveabletype.com/league-gothic">League Gothic</a> by The League of Moveable Type</li>
+		</ul>
+		
+		<h4><strong>Javascript</strong></h4>
+		
+		<ul>
+			<li><a href="http://jquery.com/">jQuery</a>, a project by John Resig</li>
+			<li><a href="http://gsgd.co.uk/sandbox/jquery/easing/">jQuery Easing</a> by George McGinley Smith</li>
+			<li><a href="https://github.com/danielstocks/jQuery-Placeholder">Placeholder</a> by Daniel Stocks</li>
+			<li><a href="http://jquery.malsup.com/cycle/">jQuery Cycle</a> by Malsup</li>
+			<li><a href="http://selectivizr.com/">Selectivizr</a> by Keith Clark</li>
+			<li><a href="http://remysharp.com/2009/01/07/html5-enabling-script/">HTML5 Shiv</a> by Remy Sharp</li>
+			<li><a href="http://finegoodsmarket.com/view/">View.js</a> <em>(licensed)</em> by Rogie King</li>
+		</ul>
+		
+		<h4><strong>Misc</strong></h4>
+		
+		<ul>
+			<li><a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>, a project by Paul Irish</li>
+		</ul>
+		
+		<hr class="spacer" />
+		
+		<h1 class="center desc"><em>Fin</em></h1>
+		
+		<p class="center desc"><em>Once again, <strong>thank you</strong> for buying our theme. If you have any questions that this file couldn't answer,
+		don't hesitate to open a new ticket on our dedicated <a href="http://help.opendept.net">Support Forum</a>.</em></p>
+		
+		<h3 class="center desc"><em>The Open Dept.</em></h3>
+		
+	</div>
+	<!-- end: Main container -->
+	  
+</body>
+
+</html>

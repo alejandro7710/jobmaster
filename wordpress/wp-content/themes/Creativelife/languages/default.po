@@ -1,0 +1,1681 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: Creativelife/content-single.php:25
+#: Creativelife/loop.php:32
+msgid "%s Comment"
+msgstr ""
+
+#. Text in function
+#: Creativelife/content-single.php:25
+#: Creativelife/loop.php:32
+msgid "%s Comments"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/functions.php:1
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/actions.php:372
+msgid "%s\\'s Sidebar"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/template.php:295
+msgid "&larr; Back"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:506
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "1-30 or http://"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:25
+msgid "2 Columns"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:26
+msgid "3 Columns"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:27
+msgid "4 Columns"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:28
+msgid "5 Columns"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/update.php:106
+msgid "A new version of %s has just become available!"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/text.php:1
+msgid "A shortcode enabled text widget."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:217
+msgid "About Panel"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Add New Filter"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1362
+msgid "Add New Sidebar"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1365
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Add or remove filters"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:101
+msgid "After changing this value you must rebuild the WordPress Thumbnails using an external WordPress plugin."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:175
+msgid "Analytics"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1135
+msgid "Animation Easing"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:19
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/featured.php:72
+msgid "Article:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:96
+#: Creativelife/includes/metabox/portfolio.php:226
+#: Creativelife/includes/widget/latests.php:97
+msgid "Ascending"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Audio Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-audio.php:10
+msgid "Audio Url"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/content-single.php:36
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/text.php:72
+msgid "Automatically add Paragraphs %s and Line breaks %s"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:104
+msgid "Available"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Back"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:936
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:942
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:969
+msgid "Background Pattern"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Be nice!"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/update.php:116
+msgid "Before updating, we recommend you to perform a quick backup of your current version of %s (%s). There&rsquo;s no risk that something might corrupt your database, but you might lose any eventual change you made on the theme itself."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:788
+msgid "Body"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Bounce"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1332
+msgid "By default, the jQuery Library is loaded from the Google Servers to improve the overall loading performances."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1054
+msgid "CSS Code"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:71
+msgid "Caption:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/content-single.php:40
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1344
+msgid "Check for updates"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1350
+msgid "Check this if you want to be notified when a new update for %s is available."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1206
+msgid "Check this to enable comments and show trackbacks on pages."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1254
+msgid "Check this to enable comments on Portfolio Items."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:960
+msgid "Check this to set a background image as background for your site."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:211
+msgid "Check this to show the \"About Me\" and Social Networks icons bar."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:229
+msgid "Check this to show the \"About Me\" panel."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:490
+msgid "Check this to show the contact panel."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:694
+msgid "Check this to show the latest Portfolio Items."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1239
+msgid "Check this to show the similar projects when viewing a single Portfolio Item."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1221
+msgid "Check this to show trackbacks on posts."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1042
+msgid "Check this to stretch the background image to fill the whole page width and height. You will also be able to set a different image for every page."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:124
+msgid "Check this to use a plain text logo rather than an image."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1275
+msgid "Choose a category"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:21
+#: Creativelife/includes/metabox/portfolio.php:24
+msgid "Choose an option"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Choose from the most used filters"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:151
+msgid "Choose your icon, then click \"Insert into post\" to apply it."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1027
+#: Creativelife/haku/options.php:1296
+#: Creativelife/haku/options.php:1311
+msgid "Choose your image, then click \"Insert into post\" to apply it."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Circular"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/comments.php:11
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:478
+msgid "Contact Panel"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/template.php:354
+#: Creativelife/haku/options.php:163
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:903
+msgid "Contrast Color"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:31
+msgid "Control Panel"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:30
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Cover Diagonally"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:28
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Cover Horizontally"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:29
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Cover Vertically"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Cubic"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1021
+msgid "Custom Background"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:125
+msgid "Custom Link"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1362
+msgid "Custom Sidebars"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:59
+#: Creativelife/includes/widget/works.php:98
+#: Creativelife/includes/metabox/portfolio.php:190
+#: Creativelife/includes/widget/latests.php:87
+#: Creativelife/haku/options.php:750
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:95
+#: Creativelife/includes/metabox/portfolio.php:225
+#: Creativelife/includes/widget/latests.php:98
+msgid "Descending"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1048
+msgid "Direct Styling"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:128
+msgid "Disable Filtering and Instant Pagination."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:117
+msgid "Disable Tools"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:150
+msgid "Disable Url Change"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:688
+msgid "Display Projects"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:42
+msgid "Documentation"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:561
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Edit Filter"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Elastic"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-audio.php:22
+msgid "Enter here the url to your .mp3 file."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1272
+msgid "Exclude"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1266
+msgid "Exclude Categories"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Exposition"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1263
+msgid "Extras"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:22
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Fade"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:23
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Fade Out"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:27
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Fade Zoom"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:145
+msgid "Favourites Icon"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/featured.php:1
+msgid "Featured Article"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/featured.php:1
+msgid "Featured [color]Article[/color]"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Filter Tags"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/portfolio.php:68
+msgid "Filter by"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/flickr.php:1
+msgid "Flickr [color]Feed[/color]"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:794
+msgid "Font Family"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:828
+msgid "Font Size"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:157
+msgid "Footer Info"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1092
+msgid "Gallery Post Formats"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Gallery Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:95
+msgid "Gallery:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:91
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:5
+msgid "General settings"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/maps.php:1
+msgid "Google Maps"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1305
+msgid "Gravatar"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:766
+msgid "Heading"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/layout.php:42
+msgid "Hide Sidebar"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+#: Creativelife/haku/options.php:559
+msgid "Homepage"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:120
+msgid "How to update?"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:101
+msgid "Hybrid"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:126
+msgid "I still need help."
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/update.php:127
+msgid "If you still need help, feel free contact us via our %s or open a ticket on %s."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:45
+#: Creativelife/includes/metabox/background.php:10
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:72
+msgid "Images height:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/layout.php:12
+msgid "Invert Sidebar Position"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1248
+msgid "Item Responses"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Item Settings"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Items"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:84
+#: Creativelife/includes/metabox/portfolio.php:214
+msgid "Items order:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:46
+msgid "Items per page:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1320
+msgid "Javascript"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:10
+msgid "Javascript is required."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:867
+msgid "Key Color"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:238
+msgid "Label"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:63
+#: Creativelife/includes/metabox/portfolio.php:194
+msgid "Last modified date"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/flickr.php:91
+msgid "Latest"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/latests.php:1
+msgid "Latest Articles"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/twitter.php:1
+msgid "Latest Tweets"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:682
+msgid "Latest Work"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/works.php:1
+msgid "Latest Works"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/works.php:1
+msgid "Latest [color]Works[/color]"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:725
+#: Creativelife/haku/options.php:1066
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Layout Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:13
+msgid "Layout:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Leave a <span>Comment</span>"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Leave a reply to %s"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:250
+msgid "Left Column"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:523
+msgid "Left Column Label"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:5
+#: Creativelife/haku/panel/template.php:366
+msgid "Lightbox"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:37
+msgid "Lightbox Settings"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:840
+msgid "Line Height"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Linear"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:72
+msgid "Link To"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:133
+#: Creativelife/includes/widget/maps.php:107
+msgid "Link to:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1326
+msgid "Load jQuery Locally"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/module/hero-slider.php:25
+msgid "Loading.."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:78
+msgid "Location:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1290
+msgid "Login Logo"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:97
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:103
+msgid "Logo Image"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:511
+msgid "Mail Sender"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:96
+msgid "Map type:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1311
+msgid "Max size:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1296
+msgid "Max width:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:64
+msgid "Menu order"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/module/social-bar.php:212
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "Message content:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "Message from:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "Message sent! Thank you!"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/module/social-bar.php:201
+msgid "Message sent! Thanks :)"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:262
+msgid "Middle Column"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:535
+msgid "Middle Column Label"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Most Used Filters"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/video.php:1
+msgid "Moving Pictures!"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:927
+msgid "Neutral Color"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: Creativelife/portfolio.php:103
+#: Creativelife/portfolio.php:115
+msgid "Newer Projects"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:42
+msgid "Next Comments"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:777
+msgid "No Homepage has been found. Please, assign the \"Homepage\" Template to a page and set it as \"Front page\" in your WordPress Reading settings. You can find more info in the %sDocumentation%s."
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/twitter.php:122
+msgid "No tweets found from \"%s\""
+msgstr ""
+
+#. Text in echo
+#: Creativelife/not-found.php:6
+msgid "Not found"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/twitter.php:78
+#: Creativelife/includes/widget/works.php:88
+#: Creativelife/includes/widget/flickr.php:82
+#: Creativelife/includes/widget/latests.php:77
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/portfolio.php:104
+#: Creativelife/portfolio.php:114
+msgid "Older Projects"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/template.php:107
+msgid "Open Media Library"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:747
+msgid "Order By"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/works.php:94
+#: Creativelife/includes/widget/latests.php:83
+msgid "Order by:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:48
+#: Creativelife/includes/metabox/portfolio.php:179
+msgid "Order items by"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/flickr.php:88
+#: Creativelife/includes/widget/latests.php:95
+msgid "Order:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:171
+msgid "Ordering"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1200
+msgid "Page Responses"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1185
+msgid "Pager"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1075
+msgid "Pages Layout"
+msgstr ""
+
+#. Text in function
+#: Creativelife/content-page.php:10
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-video.php:22
+msgid "Paste here your Youtube or Vimeo video url."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1173
+msgid "Pause On Hover"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1161
+msgid "Pause Time"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:703
+msgid "Pick From"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/template.php:342
+#: Creativelife/haku/options.php:32
+msgid "Picture"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:133
+msgid "Plain Logo Text"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "Please, fill all required fields correctly."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/latests.php:89
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1227
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Portfolio Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/works.php:74
+msgid "Portfolio:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1215
+msgid "Post Trackbacks"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:41
+msgid "Previous Comments"
+msgstr ""
+
+#. Text in function
+#: Creativelife/index.php:19
+msgid "Previous Posts"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/update.php:127
+msgid "Profile Page"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Quad"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Quart"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Quint"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:62
+#: Creativelife/includes/widget/works.php:99
+#: Creativelife/includes/widget/flickr.php:90
+#: Creativelife/includes/metabox/portfolio.php:193
+#: Creativelife/includes/widget/latests.php:88
+#: Creativelife/haku/options.php:750
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/latests.php:157
+msgid "Read all articles &rarr;"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/content-single.php:65
+#: Creativelife/loop.php:10
+#: Creativelife/loop.php:46
+#: Creativelife/loop.php:55
+#: Creativelife/includes/widget/latests.php:144
+msgid "Read the full blog post"
+msgstr ""
+
+#. Text in function
+#: Creativelife/index.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/latests.php:1
+msgid "Recent [color]Articles[/color]"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:515
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:22
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:50
+msgid "Reset Options"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1194
+msgid "Responses"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:547
+msgid "Right Column"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:98
+msgid "Roadmap"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:99
+msgid "Satellite"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:34
+msgid "Save Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:25
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Scroll Horizontally"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:24
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Scroll Vertically"
+msgstr ""
+
+#. Text in function
+#: Creativelife/searchform.php:7
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Search Filters"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:499
+msgid "Send Mail To"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/module/social-bar.php:201
+msgid "Send Message"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "Sent by:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Separate filters with commas (e.g. red, blue, green)"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:44
+msgid "Shortcodes List"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:205
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: Creativelife/portfolio.php:68
+msgid "Show All"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:484
+msgid "Show Panel"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:571
+msgid "Show Slider"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/actions.php:372
+msgid "Sidebar generated by %s for \"%s\" using %s!"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/layout.php:70
+msgid "Sidebar:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1362
+msgid "Sidebars"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/module/similar-work.php:24
+msgid "Similar <span>Projects</span>"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1233
+msgid "Similar Projects"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:623
+#: Creativelife/haku/options.php:1138
+msgid "Sine"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/video.php:78
+#: Creativelife/includes/widget/maps.php:90
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:652
+msgid "Slide left to 0 to disable auto-advance."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:565
+msgid "Slider Setup"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1365
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:562
+msgid "Slides &rarr;"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:196
+#: Creativelife/haku/options.php:199
+msgid "Social Bar"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:283
+msgid "Social Networks"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/setup.php:1
+msgid "Sorry, there was an unxpected error - try again. \\n\\nIf this error keeps annoying you, please, contact the theme's developer Stefano at stefanogiliberti@me.com. Thanks! \\n\\nError code: %s"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/not-found.php:8
+msgid "Sorry, we couldn\\'t find what you were looking for."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1036
+msgid "Stretch Image"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1069
+msgid "Structure"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:785
+msgid "Styling"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:46
+msgid "Support Forum"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/content-single.php:46
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:100
+msgid "Terrain"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/widget/text.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:852
+msgid "Text Color"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:716
+msgid "The Portfolio containing the items you want to display."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:187
+msgid "The Tracking Code of your favorite Analytics Web Service."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:169
+msgid "The content displayed on the left side of the Footer."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1086
+msgid "The default pages layout. You can customize each page settings in the edit mode."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:738
+msgid "The number of Portfolio Items to show. The four and eight columns layout is best displayed when hiding the Sidebar."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:58
+msgid "The number of items to show in each page."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1278
+msgid "The selected categories will be excluded from every single section of your awesome website (%s)."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:918
+msgid "The visibility amount of the color."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1338
+msgid "Theme Updates"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:114
+msgid "Things you should know"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/mail.php:1
+msgid "This email was sent through your website's contact form. You can reply to this email."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/comments.php:4
+msgid "This post is protected by a password. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:61
+#: Creativelife/includes/widget/works.php:97
+#: Creativelife/includes/metabox/portfolio.php:192
+#: Creativelife/includes/widget/latests.php:86
+#: Creativelife/haku/options.php:750
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/video.php:66
+#: Creativelife/includes/widget/twitter.php:66
+#: Creativelife/includes/widget/featured.php:66
+#: Creativelife/includes/widget/works.php:68
+#: Creativelife/includes/widget/flickr.php:67
+#: Creativelife/includes/widget/maps.php:72
+#: Creativelife/includes/widget/latests.php:71
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1314
+msgid "To apply your Gravatar image, go to Settings &rarr; Discussion, scroll to the bottom of the page and select it."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/functions.php:1
+msgid "Today"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:142
+msgid "Tools"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio.php:58
+msgid "Total items:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:181
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:10
+#: Creativelife/haku/options.php:1110
+msgid "Transition Effect"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:1098
+msgid "Transition Speed"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:31
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Uncover"
+msgstr ""
+
+#. Text in function
+#: Creativelife/functions.php:1
+msgid "Update Filter"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/update.php:122
+msgid "Updating a theme is pretty much like installing it. Download it, extract the .zip package, find the theme folder (do not upload the entire package!). Now, if you have no idea of what a FTP connection is, simply delete the current version of %s and upload the new one. Otherwise, connect to your server, navigate to the WordPress themes folder and replace the whole theme folder."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:58
+msgid "Url"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/video.php:72
+msgid "Url:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/panel/template.php:417
+msgid "Usage: %s"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:954
+msgid "Use Image"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:13
+msgid "Use Lightbox"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:118
+msgid "Use Plain Text Logo"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/portfolio-item.php:112
+msgid "Use the exact same value on every item you want to group."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/flickr.php:73
+msgid "User ID:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/twitter.php:72
+msgid "Username:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/panel/panel.php:79
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/metabox.php:1
+msgid "Video Settings"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-video.php:36
+msgid "Video Size"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-video.php:10
+#: Creativelife/haku/options.php:58
+msgid "Video Url"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:134
+msgid "What\\'s changed?"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Who are <span class=\"color\">you</span>?"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/options.php:1284
+msgid "WordPress"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/includes/functions.php:1
+msgid "Yesterday"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/flickr.php:78
+msgid "You can get your Flickr ID on:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/text.php:76
+#: Creativelife/haku/options.php:169
+msgid "You can use Shortcodes."
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+msgid "Your <span class=\"color\">message</span>."
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+#: Creativelife/includes/module/social-bar.php:195
+msgid "Your E-Mail"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+#: Creativelife/includes/module/social-bar.php:192
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: Creativelife/comments.php:52
+#: Creativelife/includes/module/social-bar.php:198
+msgid "Your Website"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/functions.php:530
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:118
+msgid "Your theme path:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/haku/includes/update.php:124
+msgid "Your themes path:"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/metabox/post-gallery.php:26
+#: Creativelife/haku/options.php:598
+#: Creativelife/haku/options.php:1113
+msgid "Zoom"
+msgstr ""
+
+#. Text in echo
+#: Creativelife/includes/widget/maps.php:84
+msgid "Zoom:"
+msgstr ""
+
+#. Text in function
+#: Creativelife/includes/metabox/portfolio-item.php:105
+msgid "e.g."
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:586
+#: Creativelife/haku/options.php:649
+#: Creativelife/haku/options.php:1101
+#: Creativelife/haku/options.php:1164
+msgid "milliseconds"
+msgstr ""
+
+#. Text in function
+#: Creativelife/haku/options.php:891
+#: Creativelife/haku/options.php:915
+msgid "opacity"
+msgstr ""
